@@ -38,8 +38,8 @@ namespace SimpleWebAppMVC.Controllers
         // GET [ /, /Home/, /Home/Index ]
         public IActionResult Index()
         {
-            ViewData["message_short"] = "Welcome to my simple web app";
-            ViewData["message_long"]  = "This simple web app is made using ASP.NET 7.0 MVC.";
+            ViewData["message_short"] = "This is test app for monitoring Dynatrace";
+            ViewData["message_long"]  = "This web app is made using ASP.NET 7.0 MVC.";
 
             return View();
         }
