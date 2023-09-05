@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <Authors>Adam A. Jammary</Authors>
-    <Company>Jammary Studio</Company>
-    <Product>Simple Web App MVC</Product>
-    <Description>Simple Web App MVC</Description>
-    <Copyright>2018 Adam A. Jammary</Copyright>
+    <Authors>Aydin Eyvazov</Authors>
+    <Company>Dev Studio</Company>
+    <Product>Web App for monitoring Dynatrace </Product>
+    <Description>Web App for monitoring Dynatrac</Description>
+    <Copyright>2018 Aydin Eyvazov</Copyright>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <PackageProjectUrl>https://www.jammary.com/</PackageProjectUrl>
+    <PackageProjectUrl>https://www.dynatrace.com/</PackageProjectUrl>
     <Version>1.0.4</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>$(NoWarn);1591</NoWarn>
