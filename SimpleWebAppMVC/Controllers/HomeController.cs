@@ -17,7 +17,7 @@ namespace SimpleWebAppMVC.Controllers
             {
                 AppName   = versionInfo.ProductName,
                 Copyright = versionInfo.LegalCopyright,
-                Url       = "https://www.jammary.com/",
+                Url       = "https://www.dynatrace.com/",
                 Version   = ("Version " + versionInfo.ProductVersion)
             };
 
