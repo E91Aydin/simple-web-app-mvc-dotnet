@@ -6,7 +6,7 @@
     <Company>Dev Studio</Company>
     <Product>Web App for monitoring Dynatrace </Product>
     <Description>Web App for monitoring Dynatrac</Description>
-    <Copyright>2018 Aydin Eyvazov</Copyright>
+    <Copyright>2023 Aydin Eyvazov</Copyright>
     <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://www.dynatrace.com/</PackageProjectUrl>
     <Version>1.0.4</Version>
