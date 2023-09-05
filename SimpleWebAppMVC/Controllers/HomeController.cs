@@ -39,7 +39,7 @@ namespace SimpleWebAppMVC.Controllers
         public IActionResult Index()
         {
             ViewData["message_short"] = "This test app for monitoring Dynatrace";
-            ViewData["message_long"]  = " Слава Україні :ukraine: :heart:";
+            ViewData["message_long"]  = " Слава Україні ':ukraine:' ':heart:'";
 
             return View();
         }
